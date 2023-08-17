@@ -22,3 +22,11 @@
 // investigue y busque como utilizarla.
 
 // En cada caso imprimir en pantalla el resultado
+
+
+let tempA = prompt("Ingrese una temperatura");
+let tempB = prompt("Ingrese una temperatura");
+let tempC = prompt("Ingrese una temperatura");
+
+alert("La temperatura Mayor es: " + " " + Math.max(tempA,tempB,tempC));
+alert("La temperatura Menor es: " + " " + Math.min(tempA,tempB,tempC));

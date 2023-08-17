@@ -12,3 +12,14 @@
 // Luego el programa debe imprimir la cantidad de caracteres de cada palabra
 // ingresada utilizando .length 
 
+let a = prompt("Ingrese una palabra");
+
+alert("La cantidad de caracteres que tiene la palabra ingresada es:" + " " + a.length);
+
+let b = prompt("Ingrese una palabra");
+
+alert("La cantidad de caracteres que tiene la palabra ingresada es:" + " " + b.length);
+
+let c = prompt("Ingrese una palabra");
+
+alert("La cantidad de caracteres que tiene la palabra ingresada es:" + " " + c.length);
